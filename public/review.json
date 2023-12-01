@@ -1,0 +1,42 @@
+[ 
+    {
+        "id":1,
+        "comment": "A product detail page (PDP) is a web page that outlines everything customers and buyers need to know about a particular product — including information about color, sizing, material, pricing, shipping options, and more.",
+        "ratting":4,
+        "name":"MD Juwel Rana",
+        "image":"https://img.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg?size=626&ext=jpg&ga=GA1.1.54515628.1683957057&semt=ais",
+        "email":"mdjuwelrana@gmail.com"
+    },
+    {
+        "id":2,
+        "comment": "A product detail page (PDP) is a web page that outlines everything customers and buyers need to know about a particular product — including information about color, sizing, material, pricing, shipping options, and more.",
+        "ratting":5,
+        "name":"MD Rakib",
+        "image":"https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.54515628.1683957057&semt=ais",
+        "email":"mdrakib@gmail.com"
+    },
+    {
+        "id":3,
+        "comment": "A product detail page (PDP) is a web page that outlines everything customers and buyers need to know about a particular product — including information about color, sizing, material, pricing, shipping options, and more.",
+        "ratting":4,
+        "name":"MD Rana",
+        "image":"https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg?size=626&ext=jpg&ga=GA1.1.54515628.1683957057&semt=ais",
+        "email":"mdrana@gmail.com"
+    },
+    {
+        "id":4,
+        "comment": "A product detail page (PDP) is a web page that outlines everything customers and buyers need to know about a particular product — including information about color, sizing, material, pricing, shipping options, and more.",
+        "ratting":3,
+        "name":"Sophia",
+        "image":"https://img.freepik.com/free-photo/surprised-happy-girl-pointing-left-recommend-product-advertisement-make-okay-gesture_176420-20191.jpg?size=626&ext=jpg&ga=GA1.2.54515628.1683957057&semt=ais",
+        "email":"Sophia@gmail.com"
+    },
+    {
+        "id":5,
+        "comment": "A product detail page (PDP) is a web page that outlines everything customers and buyers need to know about a particular product — including information about color, sizing, material, pricing, shipping options, and more.",
+        "ratting":2,
+        "name":"Olivia",
+        "image":"https://img.freepik.com/free-photo/cheerful-curly-business-girl-wearing-glasses_176420-206.jpg?size=626&ext=jpg&ga=GA1.2.54515628.1683957057&semt=ais",
+        "email":"Olivia@gmail.com"
+    }
+]
